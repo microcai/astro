@@ -64,6 +64,6 @@ if(Boost_FOUND)
     link_libraries(${Boost_LIBRARIES})
 endif()
 
-add_executable(astro nero.cpp main.cpp)
+add_executable(astro neural.cpp main.cpp)
 
 install(TARGETS astro RUNTIME DESTINATION bin)
