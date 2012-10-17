@@ -1,6 +1,12 @@
 #include <iostream>
 
-int main(int argc, char **argv) {
-    std::cout << "Hello, world!" << std::endl;
+int main(int argc, char **argv)
+{
+	//load saved nero network
+
+	//start running nero impulse.
+	
+
+    //never exit! unless told to save nero network.
     return 0;
 }
